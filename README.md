@@ -14,6 +14,13 @@ The plartform also allows users interested in donating resource to the organizat
 *javascript
 *Firebase
 *Git and Github
+===================================================================================================
+*Configurations*
+=================
+#configures the project files in your server eg. xampp
+#import the database file in the myphp
+#Run the project ,index
+
 
 =====================================================================================================
 *TECHABYTE SOLUTIONS KENYA*
